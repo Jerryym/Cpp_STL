@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08 set容器", "08 set容�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 map容器", "09 map容器\09 map容器.vcxproj", "{9A6EF765-842D-4F12-A021-5197DE80BAB8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 multimap案例", "10 multimap案例\10 multimap案例.vcxproj", "{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{9A6EF765-842D-4F12-A021-5197DE80BAB8}.Release|x64.Build.0 = Release|x64
 		{9A6EF765-842D-4F12-A021-5197DE80BAB8}.Release|x86.ActiveCfg = Release|Win32
 		{9A6EF765-842D-4F12-A021-5197DE80BAB8}.Release|x86.Build.0 = Release|Win32
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Debug|x64.ActiveCfg = Debug|x64
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Debug|x64.Build.0 = Debug|x64
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Debug|x86.Build.0 = Debug|Win32
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Release|x64.ActiveCfg = Release|x64
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Release|x64.Build.0 = Release|x64
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Release|x86.ActiveCfg = Release|Win32
+		{F5093E6A-5A9C-4EF3-8C90-0117F39198C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
